@@ -84,7 +84,7 @@
                         <div class="nav-hotline">
                             <i class="lni lni-phone"></i>
                             <h3>Hotline:
-                                <span>+880 1797306861</span>
+                                <span>+880 179730****</span>
                             </h3>
                         </div>
 
