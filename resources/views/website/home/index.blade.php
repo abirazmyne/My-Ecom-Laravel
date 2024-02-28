@@ -3,7 +3,7 @@
 @section('body')
 
     <section class="hero-area mt-0 mb-0">
-        <div class="container">
+        <div class="">
             <div class="row">
                 <div class="col-lg col-12 custom-padding-right">
                     <div class="slider-head">
