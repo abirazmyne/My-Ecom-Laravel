@@ -47,6 +47,7 @@
                 <div class="col-lg-3 col-md-3 col-7">
 
                     <a class="navbar-brand" href="{{route('home')}}">
+{{--                        <img src="{{asset('/')}}website/assets/images/my/fcb.png" alt="Logo" style="max-height: 80px;">--}}
                         <img src="{{asset('/')}}website/assets/images/logo/logome.png" alt="Logo">
                     </a>
 
@@ -84,7 +85,7 @@
                         <div class="nav-hotline">
                             <i class="lni lni-phone"></i>
                             <h3>Hotline:
-                                <span>+880 1797306861</span>
+                                <span>+880 17********</span>
                             </h3>
                         </div>
 
