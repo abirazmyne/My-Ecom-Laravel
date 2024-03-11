@@ -25,7 +25,7 @@
                 </div>
                 <div class="card-body">
                     <p class="text-success text-center">{{session('message')}}</p>
-                    <form class="form-horizontal" action="{{route('category.create')}}"  method="POST" enctype="multipart/form-data">
+                    <form class="form-horizontal"  action="{{route('category.create')}}"  method="POST" enctype="multipart/form-data">
                         @csrf
                         <div class="row mb-4">
                             <label for="firstName" class="col-md-3 form-label">Category Name</label>

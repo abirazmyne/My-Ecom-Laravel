@@ -137,7 +137,9 @@
                             <label for="lastName" class="col-md-3 form-label">Update Other Images</label>
                             <div class="col-md-9">
                                 @foreach($product->otherImages as $otherimage)
-                                    <img class="my-3 mx-3 rounded-2" src="{{asset($otherimage->image)}}"  height="100px" width="170" alt="">
+
+                                    <img class="img-fluid" src="{{asset($otherimage->image)}}" width="170px"  height="100px" alt="">
+
                                 @endforeach
 
                                 <input type="file"  class="form-control" name="other_image[]" multiple/>
